@@ -1,0 +1,6 @@
+
+{
+  "name": "davisshaver/pigeonwp",
+  "description": "Composer wrapper for plugin",
+  "type": "wordpress-plugin"
+}
